@@ -13,7 +13,6 @@
 | Client/Target | 1. networkwalks.com (instructor-authorized educational exercise) 2. My own local Wi-Fi network |
 | Permission Secured? | Instructor approval for the assigned domain exercise; own home network for local scanning |
 | Phases Covered | Phase 1: Reconnaissance & Footprinting; Phase 2: Scanning & Network Discovery |
-| Remaining Phases | Phases 3–5: Not performed in this project |
 
 ---
 
