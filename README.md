@@ -1,4 +1,4 @@
-# PENETRATION TESTING REPORT
+<img width="1275" height="720" alt="WAFFW00F_Results" src="https://github.com/user-attachments/assets/d13a25ef-47df-43ab-96eb-42857238cff1" /># PENETRATION TESTING REPORT
 
 ### FOOTPRINTING & NETWORK SCANNING PHASES
 
@@ -89,6 +89,7 @@ Each tool provided a different type of information about the domain and its publ
 ```bash
 whois networkwalks.com
 ```
+<img width="1230" height="722" alt="WHOIS_Results" src="https://github.com/user-attachments/assets/f7f0aa8b-b881-4070-b185-2a0355decaa7" />
 
 **Findings:**
 
@@ -116,6 +117,7 @@ This information is useful during the initial reconnaissance stage because it he
 ```bash
 whatweb networkwalks.com
 ```
+<img width="1272" height="717" alt="WHATWEB_Results" src="https://github.com/user-attachments/assets/2817853f-0a6e-4f97-8d83-38e64269353b" />
 
 **Findings:**
 
@@ -147,6 +149,7 @@ However, identifying a technology does not automatically mean that the website c
 ```bash
 nslookup networkwalks.com
 ```
+<img width="1275" height="725" alt="NSLOOKUP_Results" src="https://github.com/user-attachments/assets/19a64743-79d1-4c5e-b5b6-a468930bb537" />
 
 **Findings:**
 
@@ -169,6 +172,7 @@ This demonstrates how DNS resolution can be used to identify the IP address asso
 ```bash
 curl -I https://networkwalks.com
 ```
+<img width="1272" height="722" alt="CURL-I_Results" src="https://github.com/user-attachments/assets/e34db34c-c847-4cf9-8e28-f38b2362cc82" />
 
 **Findings:**
 
@@ -192,6 +196,7 @@ This activity demonstrated how HTTP metadata can provide information about a web
 ```bash
 wafw00f https://networkwalks.com
 ```
+<img width="1275" height="720" alt="WAFFW00F_Results" src="https://github.com/user-attachments/assets/ef56b314-8ee6-4096-86fd-88963497a22e" />
 
 **Findings:**
 
@@ -216,6 +221,7 @@ The detection result does not independently establish how effectively the WAF is
 ```bash
 dnsrecon -d networkwalks.com
 ```
+<img width="1267" height="865" alt="DNSRECON-D_Results" src="https://github.com/user-attachments/assets/6e332f07-32d6-4a2e-ba54-1f871e623c77" />
 
 **Findings:**
 
