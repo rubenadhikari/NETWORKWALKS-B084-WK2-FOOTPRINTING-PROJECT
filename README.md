@@ -1,4 +1,4 @@
-<img width="1275" height="720" alt="WAFFW00F_Results" src="https://github.com/user-attachments/assets/d13a25ef-47df-43ab-96eb-42857238cff1" /># PENETRATION TESTING REPORT
+# PENETRATION TESTING REPORT
 
 ### FOOTPRINTING & NETWORK SCANNING PHASES
 
